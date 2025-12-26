@@ -4,7 +4,7 @@
 
 * [Autounattend](#autounattend)
    * [Resumo desse Autounattend](#resumo-desse-autounattend)
-   * [Apps removidos (Debloat)](#apps-removidos-(debloat))
+   * [Apps removidos (Debloat)](#apps-removidos)
    * [Checklist antes de usar](#checklist-antes-de-usar)
 * [Script Powershell](#script-powershell)
 ---
@@ -44,7 +44,7 @@ O arquivo **autounattend.xml** automatiza a instalação do Windows, define idio
 
 ---
 
-## Apps removidos (Debloat)
+## Apps removidos
 
 - 3D viewer
 - Bing Search
