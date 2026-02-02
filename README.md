@@ -13,7 +13,7 @@
 
 O arquivo **autounattend.xml** automatiza a instalação do Windows, define idioma/região, aceita a EULA, cria um usuário local administrador e executa scripts PowerShell em momentos específicos para aplicar personalizações adicionais. Para usar ele, basta colocar o arquivo `autounattend.xml` no pendrive de instalação do Windows. 
 
-> **Observação importante**: Todas as configurações do `autounattend.xml` foram feitas através do [Schneegans.de](schneegans.de/windows/unattend-generator), créditos ao [Christoph Schneegans](https://github.com/cschneegans/). Quaisquer alterações desejadas devem ser feitas na [ferramenta](schneegans.de/windows/unattend-generator) através do import.
+> **Observação importante**: Todas as configurações do `autounattend.xml` foram feitas através do [Schneegans.de](http://schneegans.de/windows/unattend-generator), créditos ao [Christoph Schneegans](https://github.com/cschneegans/). Quaisquer alterações desejadas devem ser feitas na [ferramenta](schneegans.de/windows/unattend-generator) através do import.
 
 ---
 
